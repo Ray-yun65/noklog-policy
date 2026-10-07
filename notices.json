@@ -1,0 +1,24 @@
+{
+  "_comment": "NOK:LOG 공지·업데이트 피드. 운영 방법은 NOK_LOG 저장소 docs/notice/README.md",
+  "release": {
+    "build": 63,
+    "version": "1.0.0",
+    "changes": [
+      "앱 안 공지사항과 새 버전 안내",
+      "입력 화면: 금융수단을 먼저 고르고, 같은 내역이면 알려 줌",
+      "홈 차트에 예정·반복 표시, 홈 설정 추가"
+    ],
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.easysolution.noklog"
+  },
+  "notices": [
+    {
+      "id": "2026-10-07-test-update",
+      "type": "update",
+      "title": "NOK:LOG 테스트 버전 업데이트 안내",
+      "body": "NOK:LOG의 새로운 테스트 버전이 배포되었습니다.\n이번 버전에서는 홈 화면과 예상 잔고 계산 기능을 중심으로 개선했습니다.\n사용 중 이상 동작이 확인되면 테스트 피드백을 남겨주세요.",
+      "postedOn": "2026-10-07",
+      "pinned": false,
+      "link": "feedback"
+    }
+  ]
+}
